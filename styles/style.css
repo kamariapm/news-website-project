@@ -1,0 +1,126 @@
+#jumbotron{
+    background-image: url(../images/newspaper.jpg)
+}
+
+#arrowSearch{
+    font-family: 'Russo One', sans-serif;
+text-align: center;
+font-size: 45px;
+padding: 2%
+}
+
+#arrows{
+    height: 150px;
+    width: 125px
+}
+
+#read{
+    text-align: right;
+    color: black
+}
+
+#displaySources{
+    font-weight: bold;
+}
+
+#discover{
+    text-align: center;
+    color: black
+}
+
+#search{
+    text-align: left;
+color:black
+}
+
+.display-4{
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 75px;
+    text-align: right
+}
+
+#text{
+    border-bottom:gray solid .5px;
+    border-top: gray solid .5px;
+    margin-top: 3%;
+    margin-bottom: 3%
+}
+#textBox{
+    width: 600px;
+    height: 35px;
+    border-radius: 25px;
+    background-color: white;
+    margin-top: 5%;
+    text-align: center;
+    background: #eeeeee
+}
+
+#top3News, #top3New{
+    border-right: solid gray .5px
+}
+
+
+h4{
+    font-family: 'Fira Sans', sans-serif;
+    text-align: left;
+    font-weight: bold
+}
+
+#topNews{
+    font-family: 'Allerta Stencil', sans-serif;   
+    font-size: 125px;
+    color: black;
+    margin-bottom: 2%
+}
+#borderTopNews{
+    margin-top: 0%;
+}
+
+#displayArticle{
+    font-size: 40px;
+    font-weight: bold
+}
+
+#topHeadline{
+    margin-top: 3%;
+    background: #eeeeee;
+padding: 2%;
+}
+
+
+.sources{
+    font-weight: bold
+}
+
+#searchWord{
+    border-radius: 25px;
+    background: black;
+    color: white;
+    margin-top: 2%;
+    margin-bottom: 1%
+}
+
+
+#articleFields{
+    margin-top: 2%;
+    padding: 2%;
+    /* border-top: solid gray .5px */
+}
+
+.button{
+    border-radius: 25px;
+    background: black;
+    color: white
+}
+
+#weburl0, #weburl1, #weburl2, #weburl3, #weburl4, #weburl5, #weburl6, #weburl7, #weburl8, #weburl9, #weburl10, #weburl11, #weburl12, #weburl13, #weburl14, #weburl15, #weburl16, #weburl17, #weburl18, #weburl19{
+    border-radius: 25px;
+    background: black;
+    color: white  
+}
+
+#webU0, #webU1, #webU2{
+    border-radius: 25px;
+    background: #212121;
+    border: #212121
+}
